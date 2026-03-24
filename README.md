@@ -30,10 +30,10 @@ This repository serves as my Digital Literacy Portfolio, developed as part of my
 * **Folder:** `task-2-portfolio/` 
 
 ####  Module 3: Coding & Collaboration
-***Task:** Completed a Python challenge on HackerRank and developed a Digital Literacy Awareness Quiz.
-***Goal:** To gain familiarity with coding practice platforms and cloud collaboration.
-***Quiz Link:** https://forms.gle/27AF6xseAoCFLGHDA
-***Folder:** `task-3-platforms/`
+* **Task:** Completed a Python challenge on HackerRank and developed a Digital Literacy Awareness Quiz.
+* **Goal:** To gain familiarity with coding practice platforms and cloud collaboration.
+* **Quiz Link:** https://forms.gle/27AF6xseAoCFLGHDA
+* **Folder:** `task-3-platforms/`
 
 ####  Module 4: Professional Communication
 * **Task:** Drafted professional emails for academic and internship inquiries and created a social media etiquette guide.
