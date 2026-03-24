@@ -5,10 +5,10 @@ This repository contains all the five tasks , readme file and project report.
 ## Student Digital Ambassador Project
 
 ###  Student Details
-***Name:**Swarali Shailesh Patankar.
-***Registration Number:**25MIP10026 
-***Branch:** Computer Science and Engineering (Computational and data science)
-***Year:** First Year (2025-26)
+* **Name:** Swarali Shailesh Patankar.
+* **Registration Number:** 25MIP10026 
+* **Branch:** Computer Science and Engineering (Computational and data science)
+* **Year:** First Year (2025-26)
 
 ---
 
@@ -17,7 +17,7 @@ This repository serves as my Digital Literacy Portfolio, developed as part of my
 
 ---
 
-### [cite_start] Project Modules & Summaries 
+### Project Modules & Summaries 
 
 ####  Module 1: Visual Communication
 * **Task:** Created a Digital Literacy Awareness Infographic using Canva.
@@ -40,14 +40,14 @@ This repository serves as my Digital Literacy Portfolio, developed as part of my
 * **Goal:** To master formal digital communication and responsible social media use.
 * **Folder:** `task-4-email-etiquette/` 
 
-#### 🛡️ Module 5: Cybersecurity Awareness
+####  Module 5: Cybersecurity Awareness
 * **Task:** Researched a Phishing case study and developed a 'Stay Safe Online' prevention checklist.
 * **Goal:** To recognize and avoid online threats like identity theft and fraud.
 * **Folder:** `task-5-cybercrime/` 
 
 ---
 
-### 📄 Final Report
+###  Final Report
 The complete written project report covering all observations and reflections can be found in the link below:
 * **Report Folder:** `report/Project_Report.pdf`
 
