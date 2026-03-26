@@ -1,5 +1,4 @@
 # Digital-Literacy-Project-2025-26-25mip10026
-This repository contains all the five tasks , readme file and project report.
 
 # CSE0001 - Digital Literacy Portfolio
 ## Student Digital Ambassador Project
@@ -9,7 +8,7 @@ This repository contains all the five tasks , readme file and project report.
 * **Registration Number:** 25MIP10026 
 * **Branch:** Computer Science and Engineering (Computational and data science)
 * **Year:** First Year (2025-26)
-* **Program:** Integrated M.Tech
+* **Program:** Integrated M.Tech CSE
 ---
 
 ### Project Overview
@@ -30,7 +29,7 @@ This repository serves as my Digital Literacy Portfolio, developed as part of my
 * **Folder:** `task-2-portfolio/` 
 
 ####  Module 3: Coding & Collaboration
-* **Task:** Completed a Python challenge on HackerRank and developed a Digital Literacy Awareness Quiz.
+* **Task:** Completed Python basic level challenges on HackerRank and developed a Digital Literacy Awareness Quiz.
 * **Goal:** To gain familiarity with coding practice platforms and cloud collaboration.
 * **Quiz Link:** https://forms.gle/27AF6xseAoCFLGHDA
 * **Folder:** `task-3-platforms/`
