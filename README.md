@@ -22,7 +22,7 @@ This repository serves as my Digital Literacy Portfolio, developed as part of my
 ####  Module 1: Visual Communication
 * **Task:** Created a Digital Literacy Awareness Infographic using Canva.
 * **Goal:** To help peers understand the importance of digital tools and safe internet practices.
-* **Folder:** `task-1-presentation/` or digital literacy project task1 presentation.jpg
+* **Folder:** task-1-infographics.jpg
 
 ####  Module 2: Professional Digital Presence
 * **Task:** Established professional profiles on GitHub, ResearchGate, and Kaggle.
@@ -38,7 +38,7 @@ This repository serves as my Digital Literacy Portfolio, developed as part of my
 ####  Module 4: Professional Communication
 * **Task:** Drafted professional emails for academic and internship inquiries and created a social media etiquette guide.
 * **Goal:** To master formal digital communication and responsible social media use.
-* **Folder:** `task-4-email-etiquette/` 
+* **Folder:** `task-4-email-etiquette/` and social-mediaa-checklist.md
 
 ####  Module 5: Cybersecurity Awareness
 * **Task:** Researched a Phishing case study and developed a 'Stay Safe Online' prevention checklist.
@@ -49,6 +49,6 @@ This repository serves as my Digital Literacy Portfolio, developed as part of my
 
 ###  Final Report
 The complete written project report covering all observations and reflections can be found in the link below:
-* **Report Folder:** `report/Project_Report.pdf`
+* **Report Folder:** `Project_Report.pdf`
 
 ---
