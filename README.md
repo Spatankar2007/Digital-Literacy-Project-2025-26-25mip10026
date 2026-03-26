@@ -9,7 +9,7 @@ This repository contains all the five tasks , readme file and project report.
 * **Registration Number:** 25MIP10026 
 * **Branch:** Computer Science and Engineering (Computational and data science)
 * **Year:** First Year (2025-26)
-
+* **Program:** Integrated M.Tech
 ---
 
 ### Project Overview
@@ -38,7 +38,7 @@ This repository serves as my Digital Literacy Portfolio, developed as part of my
 ####  Module 4: Professional Communication
 * **Task:** Drafted professional emails for academic and internship inquiries and created a social media etiquette guide.
 * **Goal:** To master formal digital communication and responsible social media use.
-* **Folder:** `task-4-email-etiquette/` and social-mediaa-checklist.md
+* **Folder:** `task-4-email-etiquette_.pdf/` and social-mediaa-checklist.md
 
 ####  Module 5: Cybersecurity Awareness
 * **Task:** Researched a Phishing case study and developed a 'Stay Safe Online' prevention checklist.
