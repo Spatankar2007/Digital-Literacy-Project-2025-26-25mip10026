@@ -43,12 +43,12 @@ This repository serves as my Digital Literacy Portfolio, developed as part of my
 ####  Module 5: Cybersecurity Awareness
 * **Task:** Researched a Phishing case study and developed a 'Stay Safe Online' prevention checklist.
 * **Goal:** To recognize and avoid online threats like identity theft and fraud.
-* **Folder:** `task-5-cybercrime/` 
+* **Folder:** `task-5-cybersecurity/` 
 
 ---
 
 ###  Final Report
 The complete written project report covering all observations and reflections can be found in the link below:
-* **Report Folder:** `Project_Report.pdf`
+* **Report Folder:** `Project_Report(1).pdf`
 
 ---
